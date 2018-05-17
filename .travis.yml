@@ -1,7 +1,5 @@
 language: python
 
 
-test:
-    stage: test
-    script:
-      pytest
+script:
+    - pytest
