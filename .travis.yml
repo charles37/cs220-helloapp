@@ -1,5 +1,7 @@
-hello:test:
+language: python
+
+
+test:
     stage: test
     script:
       pytest
-   
